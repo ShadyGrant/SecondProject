@@ -1,0 +1,10 @@
+.customers{
+    background: #00ffff;
+    /*  font-weight: bolder; */
+    list-style-type: none;
+    border: green dotted 0.7rem;
+
+}
+#high {
+    background: red
+}
